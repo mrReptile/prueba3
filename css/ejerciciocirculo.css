@@ -1,0 +1,17 @@
+.circulo{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: gray;
+    text-align: center;
+    display: flex;
+    border-radius: 50%;
+    position: absolute;
+    top:  120px;
+    left: 50px;
+}
+
+.circulo .fab, .circulo .fas{
+    margin: auto;
+    color: white;
+}
